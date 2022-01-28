@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "178941799400",
+    "project_id": "qwebs-4e708",
+    "storage_bucket": "qwebs-4e708.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178941799400:android:6042ede19fbecb9bbd525d",
+        "android_client_info": {
+          "package_name": "com.internshala.qwebs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178941799400-7m0u6g2i0fimpp9j1umj24ae2a83ie55.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQByFzEhjbdZVLzGsCVRRD_kdGfLrUrRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178941799400-7m0u6g2i0fimpp9j1umj24ae2a83ie55.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

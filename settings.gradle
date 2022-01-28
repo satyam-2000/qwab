@@ -1,0 +1,2 @@
+rootProject.name = "Qwebs"
+include ':app'
